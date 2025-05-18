@@ -8,7 +8,7 @@ Proeto MVC - Ana Júlia de Lima Aguiar Leite
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" align="left" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" align="center" width="50" height="50"/>      
 
-Este é um projeto em ASP .NET MVC feito no Visual Studio 2022.
+Este é um projeto em ASP .NET Core MVC feito no Visual Studio 2022.
 
 Estou trabalhando neste projeto desde o dia 07/04/2025 até o dia 18/05/2025.
 
