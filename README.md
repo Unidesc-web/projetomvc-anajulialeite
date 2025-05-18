@@ -10,7 +10,7 @@ Proeto MVC - Ana Júlia de Lima Aguiar Leite
 
 Este é um projeto em ASP .NET MVC feito no Visual Studio 2022.
 
-Estou trabalhando neste projeto desde o dia 07/0/2025 até o dia 18/05/2025.
+Estou trabalhando neste projeto desde o dia 07/04/2025 até o dia 18/05/2025.
 
 Datas válidas para a entrega do proeto entres os dias 13/06/2025 até 27/06/2025.
 
