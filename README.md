@@ -18,3 +18,4 @@ O Projeto Contém uma página index, contato, os tipos de lanches, login, uma ab
 
 O Script do SQL Server foi enviado separadamente para que o professor consiga rodar o projeto juntamente com o Banco de Dados.
 
+<img src="Imagem/LanchesMac.png" alt="lanches" align="center" width="300">
