@@ -1,4 +1,4 @@
-Projeto MVC - Ana Júlia de Lima Aguiar Leite
+# Projeto MVC - Ana Júlia de Lima Aguiar Leite
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" align="left" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" align="left" width="50" height="50"/>
@@ -19,3 +19,7 @@ O Projeto Contém uma página index, contato, os tipos de lanches, login, uma ab
 O Script do SQL Server foi enviado separadamente para que o professor consiga rodar o projeto juntamente com o Banco de Dados.
 
 <img src="Imagem/LanchesMac.png" alt="lanches" align="center" width="300">
+
+# License 
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
