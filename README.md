@@ -14,9 +14,9 @@ Estou trabalhando neste projeto desde o dia 07/04/2025 até o dia 18/05/2025.
 
 Datas válidas para a entrega do projeto entre os dias 13/06/2025 até 27/06/2025.
 
-O Projeto Contém uma página index, contato, os tipos de lanches, login, uma aba de busca e registro.
+O Projeto chamado LanchesMac contém uma página Index, Contato, os Tipos de Lanches, Login, uma Aba de Busca e Registro.
 
-O Script do SQL Server foi enviado separadamente para que o professor consiga rodar o projeto juntamente com o Banco de Dados.
+O arquivo Script do SQL Server foi enviado para que o professor consiga rodar o projeto juntamente com o Banco de Dados do LanchesMac.
 
 <img src="Imagem/LanchesMac.png" alt="lanches" align="center" width="300">
 
