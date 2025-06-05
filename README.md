@@ -18,7 +18,67 @@ O Projeto chamado LanchesMac contém uma página Index, Contato, os Tipos de Lan
 
 O arquivo Script do SQL Server foi enviado para que o professor consiga rodar o projeto juntamente com o Banco de Dados do LanchesMac.
 
+# Tecnologias Utilizadas
+
+<li>ASP.NET Core MVC</li>
+<li>C#</li>
+<li>Entity Framework Core</li>
+<li>SQL Server</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Bootstrap</li>
+<li>JavaScript</li>
+<li>Visual Studio 2022</li>
+
+# Instrução para Executar
+
+Clone este repositório:
+```bash
+git clone https://github.com/anajulialeite/ASP-.NET-MVC.git
+```
+Navegue até a pasta do projeto:
+```bash
+cd ASP-.NET-MVC
+```
+Restaure as dependências:
+```bash
+dotnet restore
+```
+Compile o projeto:
+```bash
+dotnet build
+```
+Execute a aplicação:
+```bash
+dotnet run
+```
+Acesso no navegador:
+```bash
+https://localhost: XXXX
+```
+
+# Pré-requisitos
+
+<li>.NET SDK Instalados</li>
+<li>Um editor como Visual Studio 2022 ou Visual Studio Code</li>
+
+# Funcionalidades Implementadas
+
+<li>Cadastro e login de usuários</li>
+<li>Visualização de tipos de lanches</li>
+<li>Página de contato funcional</li>
+<li>Busca de lanches por nome</li>
+<li>Registro de novos usuários</li>
+<li>Integração com banco de dados SQL Server</li>
+
+<br>
 <img src="Imagem/LanchesMac.png" alt="lanches" align="center" width="300">
+
+# Autora: Ana Júlia de Lima Aguiar leite
+
+<a href="https://www.linkedin.com/in/ana-j%C3%BAlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+
+https://www.linkedin.com/in/anajulialimaleite/
 
 # License 
 
