@@ -74,7 +74,7 @@ https://localhost: XXXX
 <br>
 <img src="Imagem/LanchesMac.png" alt="lanches" align="center" width="300">
 
-# Autora: Ana Júlia de Lima Aguiar leite
+# Autora: Ana Júlia de Lima Aguiar Leite
 
 <a href="https://www.linkedin.com/in/ana-j%C3%BAlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
