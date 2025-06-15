@@ -8,7 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" align="left" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" align="center" width="50" height="50"/>      
 
-Este é um projeto em ASP .NET Core MVC feito no Visual Studio 2022.
+Este projeto foi desenvolvido com o objetivo de aplicar, na prática, os principais conceitos do desenvolvimento web utilizando ASP.NET MVC e Entity Framework Core, por meio da criação de um site dinâmico para vendas de lanches funcionais. Este repositório é parte prática de um curso voltado ao aprofundamento em ASP.NET MVC. A cada etapa, novos recursos são adicionados, com foco em boas práticas, organização em camadas e experiência do usuário.
 
 Estou trabalhando neste projeto desde o dia 07/04/2025 até o dia 18/05/2025.
 
@@ -18,19 +18,30 @@ O Projeto chamado LanchesMac contém uma página Index, Contato, os Tipos de Lan
 
 O arquivo Script do SQL Server foi enviado para que o professor consiga rodar o projeto juntamente com o Banco de Dados do LanchesMac.
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-<li>ASP.NET Core MVC</li>
-<li>C#</li>
-<li>Entity Framework Core</li>
-<li>SQL Server</li>
-<li>HTML5</li>
-<li>CSS3</li>
-<li>Bootstrap</li>
-<li>JavaScript</li>
-<li>Visual Studio 2022</li>
+- ASP.NET Core MVC
+- C#
+- Entity Framework Core
+- SQL Server
+- HTML5
+- CSS3</li>
+- Bootstrap
+- JavaScript
+- Visual Studio 2022
+- - Validações com Data Annotations
+- Abordagem Code-First com migração para criação do banco de dados
+- Padrão Repository e ViewModel
+- Carrinho de compras com uso de Session
+- Roteamento personalizado
+- Componentes de Interface com View Components e Partial Views
+- Autenticação e segurança com ASP.NET Core Identity (login, registro e logout)
+- Paginação e filtros de dados
+- Consultas com LINQ para geração de relatórios
 
-# Instrução para Executar
+---
+
+## Instrução para Executar
 
 Clone este repositório:
 ```bash
@@ -57,28 +68,46 @@ Acesso no navegador:
 https://localhost: XXXX
 ```
 
-# Pré-requisitos
+---
 
-<li>.NET SDK Instalados</li>
-<li>Um editor como Visual Studio 2022 ou Visual Studio Code</li>
+## Pré-requisitos
 
-# Funcionalidades Implementadas
+- .NET SDK Instalados
+- Um editor como Visual Studio 2022 ou Visual Studio Code
 
-<li>Cadastro e login de usuários</li>
-<li>Visualização de tipos de lanches</li>
-<li>Página de contato funcional</li>
-<li>Busca de lanches por nome</li>
-<li>Registro de novos usuários</li>
-<li>Integração com banco de dados SQL Server</li>
+---
 
-<br>
+## Pré-requisitos
+
+- .NET SDK Instalados
+- Um editor como Visual Studio 2022 ou Visual Studio Code
+
+---
+
+## Funcionalidades Implementadas
+
+- Cadastro e login de usuários
+- Visualização de tipos de lanches
+- Página de contato funcional
+- Busca de lanches por nome
+- Registro de novos usuários
+- Integração com banco de dados SQL Server
+
+---
+
+## Demonstração
+
 <img src="Imagem/LanchesMac.png" alt="lanches" align="center" width="300">
 
-# Autora: Ana Júlia de Lima Aguiar Leite
+---
 
-<a href="https://www.linkedin.com/in/ana-j%C3%BAlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+## Autora
 
-https://www.linkedin.com/in/anajulialimaleite/
+Ana Júlia de Lima Aguiar Leite
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anajulialimaleite/)
+
+---
 
 # License 
 
