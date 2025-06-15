@@ -8,7 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" align="left" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" align="center" width="50" height="50"/>      
 
-Este projeto foi desenvolvido com o objetivo de aplicar, na prática, os principais conceitos do desenvolvimento web utilizando ASP.NET MVC e Entity Framework Core, por meio da criação de um site dinâmico para vendas de lanches funcionais. Este repositório é parte prática de um curso voltado ao aprofundamento em ASP.NET MVC. A cada etapa, novos recursos são adicionados, com foco em boas práticas, organização em camadas e experiência do usuário.
+Este projeto foi desenvolvido com o objetivo de aplicar, na prática, os principais conceitos do desenvolvimento web utilizando **ASP.NET MVC** e **Entity Framework Core**, por meio da criação de um site dinâmico para **vendas de lanches funcionais**. Este repositório é parte prática de um curso voltado ao aprofundamento em **ASP.NET MVC**. A cada etapa, novos recursos são adicionados, com foco em boas práticas, organização em camadas e experiência do usuário.
 
 Estou trabalhando neste projeto desde o dia 07/04/2025 até o dia 18/05/2025.
 
@@ -29,7 +29,7 @@ O arquivo Script do SQL Server foi enviado para que o professor consiga rodar o 
 - Bootstrap
 - JavaScript
 - Visual Studio 2022
-- - Validações com Data Annotations
+- Validações com Data Annotations
 - Abordagem Code-First com migração para criação do banco de dados
 - Padrão Repository e ViewModel
 - Carrinho de compras com uso de Session
