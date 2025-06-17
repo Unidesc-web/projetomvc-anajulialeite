@@ -77,13 +77,6 @@ https://localhost: XXXX
 
 ---
 
-## Pré-requisitos
-
-- .NET SDK Instalados
-- Um editor como Visual Studio 2022 ou Visual Studio Code
-
----
-
 ## Funcionalidades Implementadas
 
 - Cadastro e login de usuários
